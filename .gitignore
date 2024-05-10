@@ -1,0 +1,38 @@
+# Databricks notebooks checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Data files
+*.csv
+*.parquet
+*.json
+*.xlsx
+
+# Database files
+*.db
+*.sql
+
+# Environment files
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Spark specific (if using Spark in Databricks)
+spark-warehouse/
+metastore_db/
+
+# Virtual environment
+venv/
+*.venv/
+env/
+*.env/
+
+# DS_Store for macOS folders
+.DS_Store
+
+# Jupyter Notebook config
+.jupyter/
