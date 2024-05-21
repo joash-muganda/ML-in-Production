@@ -37,8 +37,8 @@ This project focuses on implementing an end-to-end machine learning operations (
 - **Drift Detection**: Sets up mechanisms to monitor and mitigate model drift effectively.
 
 ## YouTube Walkthrough
-- **Link**: [https://drive.google.com/file/d/1ZJMmz2BrVm3fA-e5uHGqcmAIF-VEH9QA/view?usp=sharing](#)
-- **Description**: A detailed video walkthrough of the entire ML pipeline, showcasing code execution, model training, deployment, and monitoring setup. This includes a live demonstration of the CI/CD pipeline, monitoring strategies, and retraining processes.
+- **Link**: [Watch the Video](https://drive.google.com/file/d/1ZJMmz2BrVm3fA-e5uHGqcmAIF-VEH9QA/view?usp=sharing)
+- **Description**: This video provides a detailed walkthrough of our entire machine learning pipeline, showcasing the steps from code execution and model training to deployment and monitoring. It includes a live demonstration of our CI/CD pipeline, various monitoring strategies, and the retraining processes, offering a visual guide to the practical application of our project.
 
 
 
