@@ -40,10 +40,5 @@ This project focuses on implementing an end-to-end machine learning operations (
 - **Link**: [YouTube Video Link](#)
 - **Description**: A detailed video walkthrough of the entire ML pipeline, showcasing code execution, model training, deployment, and monitoring setup. This includes a live demonstration of the CI/CD pipeline, monitoring strategies, and retraining processes.
 
-## Important Notes
-- Make sure to allocate sufficient time to complete the course, as the notebook collection is only active for 12 hours from the start.
-- All demonstrations and setups are performed using the Databricks Community Edition to utilize the provided $400 credit effectively.
 
-## Contribution
-- Feel free to fork this project, submit pull requests, or use it as a reference. If you encounter issues or have suggestions, please submit them via the GitHub issue tracker.
 
